@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wt00134116
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning API Chatbot, Navision
