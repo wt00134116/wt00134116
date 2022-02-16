@@ -19,7 +19,7 @@ if(!is_null($arr_json['events'])){
          $arr_json['events'][0]['message']['text'] == "ว่าไง")
       {
         $arrpostdata = array();
-        $arrpostdata['replytoken'][0]['type'] = "text";
+        $arrpostdata['replyToken'][0]['type'] = "text";
         $arrpostdata['message'][0]['text'] = "สวัสดีครับ มีอะไรให้รับใช้ครับ";
         //$arrPostData['messages'][0]['originalContentUrl'] = 'https://github.com/swunews/LINE-BOT-PHP-Starter/blob/master/grief-and-loss.jpg?raw=true';
         //$arrPostData['messages'][0]['previewImageUrl'] = 'https://github.com/swunews/LINE-BOT-PHP-Starter/blob/master/grief-and-loss_preview.jpg?raw=true';
